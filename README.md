@@ -28,7 +28,7 @@ CalculatorApp/
 
 Clone or download this repository:
 
-git clone https://github.com//CalculatorApp.git
+git clone:https://github.com/Sri0004/basic-Calci.git
 cd CalculatorApp
 
 Open the project folder and double-click index.html
